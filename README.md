@@ -2,7 +2,7 @@
 
 # boo-docker-image
 
-Docker image for [Boo programming language](http://boo-lang.org/):
+Docker image for [Boo programming language](https://github.com/boo-lang/boo):
 
 - rzuckerm/boo:`<version>-<tag>`
 
